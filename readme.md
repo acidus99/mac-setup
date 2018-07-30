@@ -3,9 +3,6 @@
 This is a checklist for me. Your mileage may vary. I usually just upgrade to new OSes in place
 
 
-
-
-
 ## Clean Install on Existing Mac
 
 ### Check and Verify Backups
@@ -31,11 +28,47 @@ This is a checklist for me. Your mileage may vary. I usually just upgrade to new
 
 - Export Chrome Bookmarks
 
-### List of Programs
+## System Perferences
 
-Look in Applications 
+### Dock
+
+- Position on screen: Left
+- Programs to remove from doc
+  - Mail
+  - Contacts
+  - Reminders
+  - Maps
+  - Photos (if work)
+  - Facetime
+  - iTunes (if work)
+
+### Mission Control
+
+System Perferences -> Mission Control
+
+- Mission Control shortcut set to "Control + Secondary Mouse Button"
+- Application windows shortcut set to "Option + Secondary Mouse Button"
+- Show Desktop shortcut set to "Command + Secondary Mouse Button
 
 
+### Mouse
+
+- System Perferences -> Mouse -> Uncheck Natural Scrolling
 
 
+### Keyboard Setup for Microsoft Sculpt:
 
+- System Perferences -> Keyboard -> Modifier Keys
+- Switch Option key (slated arror outline) to Command
+- Switch Command key to Option key
+
+## Programs
+
+### Google Chrome
+
+- Bookmarts -> Show Bookmarks bar
+- Settings -> Show Home Button -> New Tab
+- Settings -> On Startup -> Continue where you left off
+
+### Other Programs
+- [MacDown](https://macdown.uranusjr.com/)
