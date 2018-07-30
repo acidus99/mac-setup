@@ -78,6 +78,14 @@ Make my windows keyboard function properly.
   - Switch Option key (slated arror outline) to Command
   - Switch Command key to Option key
 
+### Time Machine
+
+Setup Time Machine if appropriate.
+
+- Check "Show Time Machine in Menu"
+
+
+
 ### Users & Groups
 
 Get rid of Guest, show password hints
@@ -85,7 +93,7 @@ Get rid of Guest, show password hints
 - System Perferences -> Users & Groups
   - Guest User -> Uncheck "Allow Guests to log in to this computer" 
   - Login Options -> Check "Show password hints"
--
+ 
 
 ## Finder Settings
 
@@ -93,18 +101,30 @@ Streamline the finder.
 
 - Finder -> Perferences -> New Finder Windows Show -> Documents
 - Remove from sidebar
-  - Desktop
+  - Applications
   - Recent Items
   - iCloud Drive
-- Hide Tags 
+- Hide Tags
+
+- View -> "Show Path Bar"
 
 ## Workflow programs
 
 Things I need for using the system:
 
-- In AppStore
-  - Yoink - A Click and Drag shelf 
-  - Moom - Window layout
+### Yoink
+
+A Click and Drag shelf. Get it in the App Store
+
+- Perferences -> General -> check "Launch Yoink at login"
+- Perferences -> General -> uncheck "Show menu bar icon"
+
+### Moom
+For Window layout. Get it in the App Store
+
+- Perferences -> check "Launch automatically on login"
+- Perferences -> Run as "menu bar" application
+
 
 ## Programs
 
@@ -112,16 +132,30 @@ Things I need to get work done:
 
 ### Google Backup and Sync
 
-- [Download it here](https://www.google.com/drive/download/thankyou/) 
+- [Download it here](https://www.google.com/drive/download/thankyou/)
+- Uncheck Syncing for Documents, Desktop, Picture
+- Create Google Docs folder
+- Update Finder to default to Google Docs
+  - Finder -> Perferences -> General -> New Finder windows show -> Other -> Select Google Drive folder.
 
 ### Google Chrome
 
 - Bookmarts -> Show Bookmarks bar
 - Settings -> Show Home Button -> New Tab
 - Settings -> On Startup -> Continue where you left off
-- Import old Bookmarks
+- Import old Bookmarks file.
+- Extensions:
+  - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
+
+
+### Last Pass
+
+Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so it installs in all browser
+
+
 
 ### Other Programs
 - [MacDown](https://macdown.uranusjr.com/)
+- [Textmate](https://macromates.com/download)
 - Slack (AppStore)
 - Trello (AppStore)
