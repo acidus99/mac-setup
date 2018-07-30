@@ -78,6 +78,15 @@ Make my windows keyboard function properly.
   - Switch Option key (slated arror outline) to Command
   - Switch Command key to Option key
 
+### Users & Groups
+
+Get rid of Guest, show password hints
+
+- System Perferences -> Users & Groups
+  - Guest User -> Uncheck "Allow Guests to log in to this computer" 
+  - Login Options -> Check "Show password hints"
+-
+
 ## Finder Settings
 
 Streamline the finder.
