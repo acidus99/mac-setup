@@ -85,6 +85,9 @@ Setup Time Machine if appropriate.
 - Check "Show Time Machine in Menu"
 
 
+### Sound
+
+- System Perferences -> Sound -> Output -> Check "Show volumn in menu bar"
 
 ### Users & Groups
 
@@ -151,8 +154,6 @@ Things I need to get work done:
 ### Last Pass
 
 Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so it installs in all browser
-
-
 
 ### Other Programs
 - [MacDown](https://macdown.uranusjr.com/)
