@@ -159,4 +159,6 @@ Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so
 - [MacDown](https://macdown.uranusjr.com/)
 - [Textmate](https://macromates.com/download)
 - Slack (AppStore)
+- Skitch (Appstore)
 - Trello (AppStore)
+ 
