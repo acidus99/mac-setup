@@ -84,7 +84,9 @@ Setup Time Machine if appropriate.
 
 - Check "Show Time Machine in Menu"
 
+### Trackpad
 
+- System Perferences -> Trackpad -> More Gestures -> Check "App Exposé"
 ### Sound
 
 - System Perferences -> Sound -> Output -> Check "Show volumn in menu bar"
@@ -150,10 +152,29 @@ Things I need to get work done:
 - Extensions:
   - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 
+### Homebrew
+
+[Grab it here](https://brew.sh/). Then install:
+
+- `brew install gifsicle`
+- `brew install ffmpeg`
+- `brew install pngquant`
 
 ### Last Pass
 
 Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so it installs in all browser
+
+### Terminal
+
+Terminal -> Perferences -> General
+
+ - On startup, open: New window with profile -> "Homebrew"
+
+Terminal -> Perferences -> Profiles
+
+ - Set "Homebrew" as default.
+ - In Homebrew, set font to be "SF Mono" and 14pt.
+
 
 ### Other Programs
 - [MacDown](https://macdown.uranusjr.com/)
