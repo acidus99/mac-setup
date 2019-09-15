@@ -40,7 +40,7 @@ This is a checklist for me. Your mileage may vary. I usually just upgrade to new
 - Install macOS
 - Hurray! Now you are set to update!
 
-## System Perferences
+## System Preferences
 
 ### Dock
 
@@ -60,7 +60,7 @@ Make the Dock sane.
 
 Make Window Management Sane.
 
-System Perferences -> Mission Control
+System Preferences -> Mission Control
 
 - Mission Control shortcut set to "Control + Secondary Mouse Button"
 - Application windows shortcut set to "Option + Secondary Mouse Button"
@@ -68,14 +68,14 @@ System Perferences -> Mission Control
 
 ### Mouse
 
-- System Perferences -> Mouse -> Uncheck Natural Scrolling
+- System Preferences -> Mouse -> Uncheck Natural Scrolling
 
 ### Keyboard Setup for Microsoft Sculpt:
 
 Make my windows keyboard function properly.
 
-- System Perferences -> Keyboard -> Modifier Keys
-  - Switch Option key (slated arror outline) to Command
+- System Preferences -> Keyboard -> Modifier Keys
+  - Switch Option key (slated arrow outline) to Command
   - Switch Command key to Option key
 
 ### Time Machine
@@ -86,7 +86,7 @@ Setup Time Machine if appropriate.
 
 ### Trackpad
 
-- System Perferences -> Trackpad -> More Gestures -> Check "App Exposé"
+- System Preferences -> Trackpad -> More Gestures -> Check "App Exposé"
 ### Sound
 
 - System Perferences -> Sound -> Output -> Check "Show volumn in menu bar"
@@ -95,7 +95,7 @@ Setup Time Machine if appropriate.
 
 Get rid of Guest, show password hints
 
-- System Perferences -> Users & Groups
+- System Preferences -> Users & Groups
   - Guest User -> Uncheck "Allow Guests to log in to this computer" 
   - Login Options -> Check "Show password hints"
  
@@ -104,7 +104,7 @@ Get rid of Guest, show password hints
 
 Streamline the finder.
 
-- Finder -> Perferences -> New Finder Windows Show -> Documents
+- Finder -> Preferences -> New Finder Windows Show -> Documents
 - Remove from sidebar
   - Applications
   - Recent Items
@@ -121,14 +121,14 @@ Things I need for using the system:
 
 A Click and Drag shelf. Get it in the App Store
 
-- Perferences -> General -> check "Launch Yoink at login"
-- Perferences -> General -> uncheck "Show menu bar icon"
+- Preferences -> General -> check "Launch Yoink at login"
+- Preferences -> General -> uncheck "Show menu bar icon"
 
 ### Moom
 For Window layout. Get it in the App Store
 
-- Perferences -> check "Launch automatically on login"
-- Perferences -> Run as "menu bar" application
+- Preferences -> check "Launch automatically on login"
+- Preferences -> Run as "menu bar" application
 
 
 ## Programs
@@ -145,7 +145,7 @@ Things I need to get work done:
 
 ### Google Chrome
 
-- Bookmarts -> Show Bookmarks bar
+- Bookmarks -> Show Bookmarks bar
 - Settings -> Show Home Button -> New Tab
 - Settings -> On Startup -> Continue where you left off
 - Import old Bookmarks file.
@@ -162,15 +162,15 @@ Things I need to get work done:
 
 ### Last Pass
 
-Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so it installs in all browser
+Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so it installs in all browsers.
 
 ### Terminal
 
-Terminal -> Perferences -> General
+Terminal -> Preferences -> General
 
  - On startup, open: New window with profile -> "Homebrew"
 
-Terminal -> Perferences -> Profiles
+Terminal -> Preferences -> Profiles
 
  - Set "Homebrew" as default.
  - In Homebrew, set font to be "SF Mono" and 14pt.
