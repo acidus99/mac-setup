@@ -98,7 +98,12 @@ Get rid of Guest, show password hints
 - System Preferences -> Users & Groups
   - Guest User -> Uncheck "Allow Guests to log in to this computer" 
   - Login Options -> Check "Show password hints"
- 
+
+## Clean up menu bar
+
+Get rid of clutter
+
+- System Preferences -> Keyboard -> Input Soources -> Uncheck "Show input menu in menu bar"
 
 ## Finder Settings
 
