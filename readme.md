@@ -103,7 +103,7 @@ Get rid of Guest, show password hints
 
 Get rid of clutter
 
-- System Preferences -> Keyboard -> Input Soources -> Uncheck "Show input menu in menu bar"
+- System Preferences -> Keyboard -> Input Soorces -> Uncheck "Show input menu in menu bar"
 
 ## Finder Settings
 
@@ -117,6 +117,7 @@ Streamline the finder.
 - Hide Tags
 
 - View -> "Show Path Bar"
+- View -> "Show Status Bar"
 
 ## Workflow programs
 
