@@ -2,7 +2,6 @@
 
 This is a checklist for me. Your mileage may vary. I usually just upgrade to new OSes in place
 
-
 ## Clean Install on Existing Mac
 
 ### Check and Verify Backups
@@ -30,130 +29,167 @@ This is a checklist for me. Your mileage may vary. I usually just upgrade to new
 
 ### Copy everything off to another drive
 
-
-## 🎉 Wipe and Install! 🎉
+## 🧼 Wipe and Install! 💻
+When Booting:
 
 - Command + R = Recovery Mode
 - Command + Option + R = Internet Recovery Mode
 
-- Disk Utility to erase/reparition
+Once Booted:
+- (if necessary) Disk Utility to erase/reparition
 - Install macOS
-- Hurray! Now you are set to update!
+- Hurray! Now you are set to setup your new Mac!
 
 ## System Preferences
 
 ### Dock
-
+ 
 Make the Dock sane.
 
-- Position on screen: Left
-- Programs to remove from doc
+- Position on screen: *"Left"*
+- Programs to remove from dock
   - Mail
   - Contacts
   - Reminders
   - Maps
   - Photos (if work)
   - Facetime
-  - iTunes (if work)
+  - Music (if work)
+  - App Store
+  - System Preferences
 
 ### Mission Control
 
 Make Window Management Sane.
 
-System Preferences -> Mission Control
+System Preferences → Mission Control
 
-- Mission Control shortcut set to "Control + Secondary Mouse Button"
-- Application windows shortcut set to "Option + Secondary Mouse Button"
-- Show Desktop shortcut set to "Command + Secondary Mouse Button
+- Mission Control shortcut set to *"Control + Secondary Mouse Button"*
+- Application windows shortcut set to *"Option + Secondary Mouse Button"*
+- Show Desktop shortcut set to *"Command + Secondary Mouse Button*
+
+Hot Corners:
+
+- Disable all hot corners
 
 ### Mouse
 
-- System Preferences -> Mouse -> Uncheck Natural Scrolling
+- System Preferences → Mouse → Uncheck *"Natural Scrolling"*
 
 ### Keyboard Setup for Microsoft Sculpt:
-
 Make my windows keyboard function properly.
 
-- System Preferences -> Keyboard -> Modifier Keys
+- System Preferences → Keyboard → Modifier Keys
   - Switch Option key (slated arrow outline) to Command
   - Switch Command key to Option key
 
-### Time Machine
+### Software Update
+- Cbeck *"Automatically keep my mac up to date" *
 
+### Time Machine
 Setup Time Machine if appropriate.
 
-- Check "Show Time Machine in Menu"
-
 ### Trackpad
+- System Preferences → Trackpad → More Gestures → Check "App Exposé"
 
-- System Preferences -> Trackpad -> More Gestures -> Check "App Exposé"
 ### Sound
+- System Perferences → Sound → Output → Check "Show volumn in menu bar"
 
-- System Perferences -> Sound -> Output -> Check "Show volumn in menu bar"
-
-### Users & Groups
-
-Get rid of Guest, show password hints
-
-- System Preferences -> Users & Groups
-  - Guest User -> Uncheck "Allow Guests to log in to this computer" 
-  - Login Options -> Check "Show password hints"
-
-## Clean up menu bar
-
+## Clean up Menu bar
 Get rid of clutter
 
-- System Preferences -> Keyboard -> Input Soorces -> Uncheck "Show input menu in menu bar"
+- Command + Drag to remove icons
+	- Bluetooth
+	- Siri
+	- Spotlight
+- System Preferences → Keyboard → Input Sources → Uncheck *"Show input menu in menu bar"*
 
-## Finder Settings
+## Clean up Notification Center
+- Right-click *"Weather"*
+	- Size → *"Medium"*
+	- Edit Weather → Set location to *"My Location"*
+- Add Photos Widget
+- Remove everyting else
 
+## Application Settings
+
+### Finder
 Streamline the finder.
 
-- Finder -> Preferences -> New Finder Windows Show -> Documents
-- Remove from sidebar
-  - Applications
-  - Recent Items
-  - iCloud Drive
-- Hide Tags
+- Finder → Preferences → General → New Finder Windows Show → *"Documents"*
+- Finder → Preferences → Sidebar
+	- Uncheck
+		- *"Airdrop"*
+		- *"Applications"*
+		- *"Recents"*
+		- *"iCloud Drive"*
+		- *"Shared"*
+		- *"Recent Tags"*
+	- Check
+		- Home Folder
+- View → *"Show Path Bar"*
+- View → *"Show Status Bar"*
 
-- View -> "Show Path Bar"
-- View -> "Show Status Bar"
+### Music
+Making Music Sane
 
+- General →
+	- Library → Check *"Automatic Downloads"*
+	- Show → Uncheck *"Apple Music"*
+	- Notifications → Uncheck *"When Song Changes"*
+- Advanced →
+	- Check *"Add songs to Library when adding to playlists"*
+	- Check *"Automatically Update Artwork for Imported Songs"*
+
+### Safari
+- Preferences → General →
+	- Safari opens with: *"All windows from last sesions"*
+	- Homepage: https://duckduckgo.com
+- Preferences → Search → Search engine → *"DuckDuckGo"*
+- Preferences → Advanced → Check *"Show Develop menu in menu bar"*
+ 
 ## Workflow programs
-
 Things I need for using the system:
 
-### Yoink
-
-A Click and Drag shelf. Get it in the App Store
-
-- Preferences -> General -> check "Launch Yoink at login"
-- Preferences -> General -> uncheck "Show menu bar icon"
+### Ad Block by Magic Lasso
+Adblocking for Safari. [Get it in the App Store](https://apps.apple.com/us/app/ad-block-by-magic-lasso/id1198047227?mt=12)
 
 ### Moom
-For Window layout. Get it in the App Store
+For Window layout. [Get it in the App Store](https://apps.apple.com/us/app/moom/id419330170?mt=12)
 
-- Preferences -> check "Launch automatically on login"
-- Preferences -> Run as "menu bar" application
+- Grant it Accessible access (should be prompted)
+- Preferences → Check *"Launch automatically on login"*
+- Preferences → Run as *"faceless"* application
 
+### Yoink
+A Click and Drag shelf. [Get it in the App Store](https://apps.apple.com/us/app/yoink-improved-drag-and-drop/id457622435?mt=12)
+
+- Preferences → General → 
+	- Check *"Launch Yoink at login"*
+	- Uncheck *"Show menu bar icon"*
+	- Uncheck *"Occasional reminder to review Yoink"*
+- Preferences → Advanced → 
+	- Check *"JPG"* data and all the "dragged-out" file tions
 
 ## Programs
 
 Things I need to get work done:
 
-### Google Backup and Sync
+### Google Drive
 
 - [Download it here](https://www.google.com/drive/download/thankyou/)
-- Uncheck Syncing for Documents, Desktop, Picture
-- Create Google Docs folder
+- Select *"Mirroring"* Mode
+
+If Work:
+
 - Update Finder to default to Google Docs
-  - Finder -> Perferences -> General -> New Finder windows show -> Other -> Select Google Drive folder.
+  - Finder → Perferences → General → New Finder windows show → Other → Select Google Drive folder.
 
-### Google Chrome
+### Google Chrome (If Work)
 
-- Bookmarks -> Show Bookmarks bar
-- Settings -> Show Home Button -> New Tab
-- Settings -> On Startup -> Continue where you left off
+- Bookmarks → Show Bookmarks bar
+- Settings → Show Home Button → New Tab
+- Settings → On Startup → Continue where you left off
 - Import old Bookmarks file.
 - Extensions:
   - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
@@ -172,11 +208,11 @@ Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so
 
 ### Terminal
 
-Terminal -> Preferences -> General
+Terminal → Preferences → General
 
- - On startup, open: New window with profile -> "Homebrew"
+ - On startup, open: New window with profile → "Homebrew"
 
-Terminal -> Preferences -> Profiles
+Terminal → Preferences → Profiles
 
  - Set "Homebrew" as default.
  - In Homebrew, set font to be "SF Mono" and 14pt.
