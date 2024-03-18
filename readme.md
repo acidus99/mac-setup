@@ -87,7 +87,7 @@ Make my windows keyboard function properly.
   - Switch Command key to Option key
 
 ### Software Update
-- Cbeck *"Automatically keep my mac up to date" *
+- Check *"Automatically keep my mac up to date" *
 
 ### Time Machine
 Setup Time Machine if appropriate.
@@ -96,7 +96,7 @@ Setup Time Machine if appropriate.
 - System Settings → Trackpad → More Gestures → Check "App Exposé"
 
 ### Sound
-- System Perferences → Sound → Output → Check "Show volumn in menu bar"
+- System Settings → Sound → Output → Check "Show volume in menu bar"
 
 ## Clean up Menu bar
 Get rid of clutter
