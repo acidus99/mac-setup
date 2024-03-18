@@ -182,17 +182,23 @@ Things I need to get work done:
 
 If Work:
 
-- Update Finder to default to Google Docs
-  - Finder → Perferences → General → New Finder windows show → Other → Select Google Drive folder.
+- Update Finder to default to Google Drive or Microsoft OneDrive
+  - Finder → Settings → General → New Finder windows show → Other → Select [Google Drive or Microsoft OneDrive] folder.
 
 ### Google Chrome (If Work)
 
-- Bookmarks → Show Bookmarks bar
-- Settings → Show Home Button → New Tab
+- Settings → Appearance → Show bookmarks bar → Enable
+- Settings → Appearance → Show Home Button → New Tab page
+- Settings → Appearance → Show warning before quitting → Disable
 - Settings → On Startup → Continue where you left off
 - Import old Bookmarks file.
 - Extensions:
   - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
+
+If using a Password manager:
+
+- Install password manager browser extension
+- Settings → Password Manager → Settings → Offer to save passwords → Disable
 
 ### Homebrew
 
