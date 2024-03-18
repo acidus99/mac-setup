@@ -65,13 +65,13 @@ Make the Dock sane.
 
 Make Window Management Sane.
 
-System Settings → Mission Control
+System Settings → Desktop & Dock → Shortcuts...
 
 - Mission Control shortcut set to *"Control + Secondary Mouse Button"*
 - Application windows shortcut set to *"Option + Secondary Mouse Button"*
 - Show Desktop shortcut set to *"Command + Secondary Mouse Button*
 
-Hot Corners:
+System Settings → Desktop & Dock → Hot Corners...
 
 - Disable all hot corners
 
