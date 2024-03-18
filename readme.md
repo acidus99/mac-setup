@@ -116,8 +116,8 @@ Get rid of clutter
 ### Finder
 Streamline the finder.
 
-- Finder → Preferences → General → New Finder Windows Show → *"Documents"*
-- Finder → Preferences → Sidebar
+- Finder → Settings → General → New Finder Windows Show → *"Documents"*
+- Finder → Settings → Sidebar
 	- Uncheck
 		- *"Airdrop"*
 		- *"Applications"*
