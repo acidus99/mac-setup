@@ -40,7 +40,7 @@ Once Booted:
 - Install macOS
 - Hurray! Now you are set to setup your new Mac!
 
-## System Preferences
+## System Settings
 
 ### Dock
  
@@ -59,13 +59,13 @@ Make the Dock sane.
   - News
   - Apple TV
   - Free Form
-  - System Preferences
+  - System Settings
 
 ### Mission Control
 
 Make Window Management Sane.
 
-System Preferences → Mission Control
+System Settings → Mission Control
 
 - Mission Control shortcut set to *"Control + Secondary Mouse Button"*
 - Application windows shortcut set to *"Option + Secondary Mouse Button"*
@@ -77,12 +77,12 @@ Hot Corners:
 
 ### Mouse
 
-- System Preferences → Mouse → Uncheck *"Natural Scrolling"*
+- System Settings → Mouse → Uncheck *"Natural Scrolling"*
 
 ### Keyboard Setup for Microsoft Sculpt:
 Make my windows keyboard function properly.
 
-- System Preferences → search for "Modifier Keys"
+- System Settings → search for "Modifier Keys"
   - Switch Option key (slated arrow outline) to Command
   - Switch Command key to Option key
 
@@ -93,7 +93,7 @@ Make my windows keyboard function properly.
 Setup Time Machine if appropriate.
 
 ### Trackpad
-- System Preferences → Trackpad → More Gestures → Check "App Exposé"
+- System Settings → Trackpad → More Gestures → Check "App Exposé"
 
 ### Sound
 - System Perferences → Sound → Output → Check "Show volumn in menu bar"
@@ -105,7 +105,7 @@ Get rid of clutter
 	- Bluetooth
 	- Siri
 	- Spotlight
-- System Preferences → Keyboard → Input Sources → Uncheck *"Show input menu in menu bar"*
+- System Settings → Keyboard → Input Sources → Uncheck *"Show input menu in menu bar"*
 
 ## Clean up Notification Center
 - Right-click *"Weather"*
