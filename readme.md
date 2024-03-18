@@ -36,7 +36,7 @@ When Booting:
 - Command + Option + R = Internet Recovery Mode
 
 Once Booted:
-- (if necessary) Disk Utility to erase/reparition
+- (if necessary) Disk Utility to erase/repartition
 - Install macOS
 - Hurray! Now you are set to setup your new Mac!
 
@@ -93,15 +93,15 @@ Make my windows keyboard function properly.
 Setup Time Machine if appropriate.
 
 ### Trackpad
-- System Settings → Trackpad → More Gestures → Check "App Exposé"
+- System Settings → Trackpad → More Gestures → "App Exposé" → Select "Swipe Down with three fingers"
 
 ## Clean up Menu bar
 Get rid of clutter
 
 - Command + Drag to remove icons
-	- Bluetooth
 	- Siri
 	- Spotlight
+
 - System Settings → Keyboard → Input Sources → Uncheck *"Show input menu in menu bar"*
 
 ## Clean up Notification Center
@@ -109,7 +109,7 @@ Get rid of clutter
 	- Size → *"Medium"*
 	- Edit Weather → Set location to *"My Location"*
 - Add Photos Widget
-- Remove everyting else
+- Remove everything else
 
 ## Application Settings
 
@@ -152,7 +152,7 @@ Making Music Sane
 Things I need for using the system:
 
 ### Ad Block by Magic Lasso
-Adblocking for Safari. [Get it in the App Store](https://apps.apple.com/us/app/ad-block-by-magic-lasso/id1198047227?mt=12)
+Ad-blocking for Safari. [Get it in the App Store](https://apps.apple.com/us/app/ad-block-by-magic-lasso/id1198047227?mt=12)
 
 ### Moom
 For Window layout. [Get it in the App Store](https://apps.apple.com/us/app/moom/id419330170?mt=12)
