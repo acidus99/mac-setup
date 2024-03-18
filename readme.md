@@ -133,20 +133,20 @@ Streamline the finder.
 ### Music
 Making Music Sane
 
-- General →
+- Settings → General →
 	- Library → Check *"Automatic Downloads"*
 	- Show → Uncheck *"Apple Music"*
 	- Notifications → Uncheck *"When Song Changes"*
-- Advanced →
+- Settings → Advanced →
 	- Check *"Add songs to Library when adding to playlists"*
 	- Check *"Automatically Update Artwork for Imported Songs"*
 
 ### Safari
-- Preferences → General →
-	- Safari opens with: *"All windows from last sesions"*
+- Settings → General →
+	- Safari opens with: *"All windows from last session"*
 	- Homepage: https://duckduckgo.com
-- Preferences → Search → Search engine → *"DuckDuckGo"*
-- Preferences → Advanced → Check *"Show Develop menu in menu bar"*
+- Settings → Search → Search engine → *"DuckDuckGo"*
+- Settings → Advanced → Check *"Show features for web developers"*
  
 ## Workflow programs
 Things I need for using the system:
