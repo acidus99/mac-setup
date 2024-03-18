@@ -208,11 +208,11 @@ Get the [universal installer](https://lastpass.com/download/cdn/lpmacosx.zip) so
 
 ### Terminal
 
-Terminal → Preferences → General
+Terminal → Settings → General
 
  - On startup, open: New window with profile → "Homebrew"
 
-Terminal → Preferences → Profiles
+Terminal → Settings → Profiles
 
  - Set "Homebrew" as default.
  - In Homebrew, set font to be "SF Mono" and 14pt.
