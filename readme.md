@@ -56,6 +56,9 @@ Make the Dock sane.
   - Facetime
   - Music (if work)
   - App Store
+  - News
+  - Apple TV
+  - Free Form
   - System Preferences
 
 ### Mission Control
@@ -79,7 +82,7 @@ Hot Corners:
 ### Keyboard Setup for Microsoft Sculpt:
 Make my windows keyboard function properly.
 
-- System Preferences → Keyboard → Modifier Keys
+- System Preferences → search for "Modifier Keys"
   - Switch Option key (slated arrow outline) to Command
   - Switch Command key to Option key
 
