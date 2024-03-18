@@ -95,9 +95,6 @@ Setup Time Machine if appropriate.
 ### Trackpad
 - System Settings → Trackpad → More Gestures → Check "App Exposé"
 
-### Sound
-- System Settings → Sound → Output → Check "Show volume in menu bar"
-
 ## Clean up Menu bar
 Get rid of clutter
 
